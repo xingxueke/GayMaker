@@ -1,3 +1,17 @@
+# 1.7.6       
+Fixed an issue where it was possible to enter invalid characters into Title ID Feild           
+Fixed some UI Elements            
+Changed \n to \r\n to make gmac output show properly on win10.           
+Fixed Auto Update for REAL this time
+
+Download: https://github.com/KuromeSan/GayMaker/releases/download/v1.7.6/GayMaker.1.7.6.zip
+
+# 1.7.5    
+Fixed a bug where /SH argument would allways = False regardles of what was set in project file
+Fixed automatic updater
+
+Download: https://github.com/KuromeSan/GayMaker/releases/download/V1.7.5/GayMaker.1.7.5.zip
+
 # 1.7.3    
 Fixed a bug where if you never opened "Global Game Settings" in GameMaker   
 Then GayMaker would crash (IT WAS A STRANGE PARSER DIFFERNTAL xD)   
@@ -124,8 +138,8 @@ To Check PSVita Controls use the [GamePad](https://docs.yoyogames.com/source/dad
 Here is what each control maps to:  
 
 gp_face1 = CROSS  
-gp_face2 = SQUARE  
-gp_face3 = CIRCLE  
+gp_face2 = CIRCLE             
+gp_face3 = SQUARE  
 gp_face4 = TRIANGLE  
   
 gp_shoulderl = L  

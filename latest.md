@@ -1,1 +1,1 @@
-1.7.4~https://bitbucket.org/SilicaAndPina/gaymaker/downloads/GayMaker%201.7.4.zip
+1.7.6~https://github.com/KuromeSan/GayMaker/releases/download/v1.7.6/GayMaker.1.7.6.zip
